@@ -1,3 +1,8 @@
+# USER CREATION USING FASTAPI
+## <a href="https://userfastapi.netlify.app/"> Tap to Visit</a>
+## HOME USER , ADD USER
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/abbb8b10-2062-4381-8473-b6863245ca69">
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/9b15045a-abef-4872-9ab3-03fd30995a3a">
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
